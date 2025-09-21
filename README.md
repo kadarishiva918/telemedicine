@@ -86,6 +86,7 @@ Open a Pull Request.
 
 📄 License
 This project is licensed under the [e.g., MIT License]. See the LICENSE file for details.
+
 Team members:
     T.Rithwik(Team Leader)
     M.Rahul
